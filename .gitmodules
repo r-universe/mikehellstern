@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "micvar"]
+	path = micvar
+	url = https://github.com/cran/micvar
 [submodule "netgsa"]
 	path = netgsa
 	url = https://github.com/mikehellstern/netgsa
