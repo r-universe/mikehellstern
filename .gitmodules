@@ -8,3 +8,6 @@
 [submodule "netgsa"]
 	path = netgsa
 	url = https://github.com/mikehellstern/netgsa
+[submodule "sddinf"]
+	path = sddinf
+	url = https://github.com/cran/sddinf
